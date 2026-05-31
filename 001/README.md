@@ -1,9 +1,9 @@
-# Tutorial 001 — Build your first Kalix model
+# Tutorial 1 — Build your first Kalix model
 
-A single Sacramento catchment model for the (fictional) Stringybark Creek, 1980–2009.
+A Sacramento catchment node feeding a downstream gauge node, for the (fictional) Stringybark Creek, 1980–2009.
 
 The walk-through lives on the Kalix User Guide:
-[Tutorial 001 on Notion](https://www.notion.so/chasegan/Example-library-3503cd7417a281359890f9e4f3326a1a)
+[Tutorial 1 on Notion](https://chasegan.notion.site/Tutorial-1-Build-your-first-model-3713cd7417a2811fbf8ace31792467c5)
 
 ## Files
 
