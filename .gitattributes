@@ -1,0 +1,7 @@
+# Force LF for tutorial data and model files, so a stray CRLF write (or a
+# Windows checkout under core.autocrlf) can't produce a whole-file diff with
+# no content change. All committed data files are LF today; the rain_*.csv
+# series briefly picked up CRLF data rows on an LF header, which showed up as
+# a 10,958-line diff containing zero content changes.
+*.csv  text eol=lf
+*.ini  text eol=lf
